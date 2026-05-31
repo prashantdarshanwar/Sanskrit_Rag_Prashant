@@ -1,4 +1,4 @@
-pip install -r requirements.txt# 🕉️ Sanskrit RAG System
+# 🕉️ Sanskrit RAG System
 
 **Retrieval-Augmented Generation for Sanskrit Documents — CPU-Only**
 
